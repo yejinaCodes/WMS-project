@@ -1,5 +1,9 @@
 # Introduction
 
+Warehouse management system manages the entire process within the Supply Chain Management System that are related to warehousing. WMS enhances efficiency in logistics management.
+
+## Objective
+
 The objective of this project is to understand warehouse management system and develop core operations of wms.
 The key operations are as follows:
 
@@ -13,5 +17,3 @@ The key operations are as follows:
 
 The packaging structure has been designed to help visualize the entire structure and distinguish each function within the development phase.
 
-
-## 

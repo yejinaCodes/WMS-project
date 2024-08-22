@@ -1,8 +1,8 @@
-# Introduction
+# Introduction 🟣
 
 Warehouse management system manages the entire process within the Supply Chain Management System that are related to warehousing. WMS enhances efficiency in logistics management.
 
-## Objective
+## Objective 🔵
 
 The objective of this project is to understand warehouse management system and develop core operations of wms.
 The key operations are as follows:
@@ -13,7 +13,7 @@ The key operations are as follows:
 5. Release request system
 6. Stock management
 
-## Package Structure
+## Package Structure 🟠
 
 The packaging structure has been designed to help visualize the entire structure and distinguish each function within the development phase.
 
@@ -29,7 +29,6 @@ dto - data transfer object. Defines the object parameters.
 
 exception - includes user defined exception.
 
-handler - 
-library - includes 
-security - 
+library - includes script which replaces println in Java and enhances readability.
+
 service - defines 

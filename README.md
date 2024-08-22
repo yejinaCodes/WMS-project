@@ -18,11 +18,17 @@ The key operations are as follows:
 The packaging structure has been designed to help visualize the entire structure and distinguish each function within the development phase.
 
 common - includes methods, enum types that are used across multiple function.
+
 config - defines properties and DB connection.
+
 controller - works as user interaction phase and prints user screen.
+
 dao - data access object. Takes in charge of DB interaction. Retrieval, insertion, update, and delete.
+
 dto - data transfer object. Defines the object parameters.
+
 exception - includes user defined exception.
+
 handler - 
 library - includes 
 security - 

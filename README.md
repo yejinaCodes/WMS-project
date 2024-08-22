@@ -31,4 +31,4 @@ exception - includes user defined exception.
 
 library - includes script which replaces println in Java and enhances readability.
 
-service - defines 
+service - prosecutes business logic of the operation.

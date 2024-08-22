@@ -1,4 +1,4 @@
-# Introduction 🟣
+# Introduction 
 
 Warehouse management system manages the entire process within the Supply Chain Management System that are related to warehousing. WMS enhances efficiency in logistics management.
 

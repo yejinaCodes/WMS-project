@@ -8,10 +8,11 @@ The objective of this project is to understand warehouse management system and d
 The key operations are as follows:
 
 1. User registration and login system
-3. Purchase order request system
-4. Stock request system
+3. Purchase order & Stock request system
 5. Release request system
 6. Stock management
+7. Customer service center
+
 
 ## Package Structure 🟠
 
